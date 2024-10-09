@@ -1,0 +1,18 @@
+.dashboard-container {
+    background-color: #ffffff; /* White background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px;
+    margin: 20px auto; /* Centered with margin */
+    max-width: 600px; /* Max width for better readability */
+  }
+  
+  .dashboard-title {
+    color: #007bff; /* Bootstrap primary color */
+    font-size: 2em; /* Slightly larger title font size */
+  }
+  
+  .dashboard-description {
+    color: #555; /* Gray text for description */
+    font-size: 1.2em; /* Slightly larger description font size */
+  }
